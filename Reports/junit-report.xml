@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="2.1607238">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0014499">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7258079">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="1" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.7456216">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007722">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.806366">
+            <failure message="AssertionError: expected image to match given image, but 7720 pixels different">AssertionError: expected image to match given image, but 7720 pixels different
+    at verify_calculatedAmount (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\step-definitions\calculator-steps.js:208:30)
+    at D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\step-definitions\calculator-steps.js:197:13
+    at ManagedPromise.invokeCallback_ (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:1384:14)
+    at TaskQueue.execute_ (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:3092:14)
+    at TaskQueue.executeNext_ (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:3075:27)
+    at D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:2935:27
+    at D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)</failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.8755694">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007467">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7017467">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.2817414">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0019352">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.9981102">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.7382627">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0009914">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.6698475">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.7665723">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007771">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7048317">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.7086555">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007884">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.6948254">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="3.8225547">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007438">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7060422">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.7763268">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007089">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7042225">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.9255025">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0014095">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7997974">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="1" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.8338279">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0008362">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.7558882">
+            <failure message="AssertionError: expected image to match given image, but 2643 pixels different">AssertionError: expected image to match given image, but 2643 pixels different
+    at verify_calculatedAmount (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\step-definitions\calculator-steps.js:208:30)
+    at D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\step-definitions\calculator-steps.js:197:13
+    at ManagedPromise.invokeCallback_ (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:1384:14)
+    at TaskQueue.execute_ (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:3092:14)
+    at TaskQueue.executeNext_ (D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:3075:27)
+    at D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:2935:27
+    at D:\SoftwareTesting\Xendit\xendit-qa-assessment-master\xendit-qa-assessment-master\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at runMicrotasks (&lt;anonymous&gt;)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)</failure>
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.9347758">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0016086">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.720156">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.9698522">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0011262">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.8593629">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.9859629">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0030179">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.8606476">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="3.9537205">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0008258">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.703472">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.9404072">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007848">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.6948637">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.6928414">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0014336">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.8013376">
+        </testcase>
+    </testsuite>
+    <testsuite name="test-online-calculator-scenarios;test-division,-subtraction,-addition" tests="3" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/SoftwareTesting/Xendit/xendit-qa-assessment-master/xendit-qa-assessment-master/features/calculator.feature">
+            </property>
+        </properties>
+        <testcase name="Given Open chrome browser and start application" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="1.6758063">
+        </testcase>
+        <testcase name="When I enter following values and operator" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="0.0007192">
+        </testcase>
+        <testcase name="Then I should be able to see result" classname="test-online-calculator-scenarios;test-division,-subtraction,-addition" time="4.6548312">
+        </testcase>
+    </testsuite>
+</testsuites>
